@@ -1,11 +1,11 @@
 
 ### Привет!
 
-👾 Я **Hillence**.
+ Я **Hillence**.
 
-🦀 An open-source developer with a deep passion for Rust.
+ An open-source developer with a deep passion for Rust.
 
-🐁 I work on terminal tooling and libraries.
+ I work on terminal tooling and libraries.
 
 
 <br>
