@@ -3,7 +3,7 @@
 
  Я **Hillence**.
 
- An open-source developer with a deep passion for Rust.
+ Фуллстек Dev на стеке JavaScript, Go и PHP.
 
  I work on terminal tooling and libraries.
 
@@ -15,7 +15,7 @@
 
 #### ⚡ Ачивки
 
-Я присоединился к Dev сфере **4** года назад and since then I have pushed **285** commits, opened **63** issues, submitted **15** PRs, received **19762** stars across **7** personal projects and contributed to **13** public repositories.
+Я присоединился к Dev сфере **4** года назад и за это время было написано более 40 проектов.
 
 #### 🌐 Проекты
 
