@@ -3,7 +3,7 @@
 
  Я **Hillence**.
 
- Фуллстек Dev на стеке JavaScript, Go и PHP.
+ Фуллстек Dev на стеке JavaScript, Go и Flutter.
 
  Я работаю с терминалом, библотеками и фреймворками.
 
